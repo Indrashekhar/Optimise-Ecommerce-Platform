@@ -1,4 +1,5 @@
 # Optimise-Ecommerce-Platform
+Bayesian thinking to a real-world business dataset. A/B Test using PyMC
 
 # Bayesian parameter estimation and hypothesis testing
 
