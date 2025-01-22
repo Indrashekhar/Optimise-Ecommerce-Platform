@@ -5,5 +5,5 @@ The e-commerce company has recorded data from its website, tracking the number o
 
 ## Solution:
 
-# Import the libraries
+### Import the libraries
 ![image](https://github.com/user-attachments/assets/c36ad0b2-363c-4dd4-ac14-80f0084e41b4)
