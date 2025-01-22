@@ -25,13 +25,11 @@ The e-commerce company has recorded data from its website, tracking the number o
 
 ![image](https://github.com/user-attachments/assets/cd457c21-67a0-4e27-b7e2-bf08708a3986)
 
-Conclusion
+## Conclusion
 The mean of alpha, beta and sigma all fall between 3% amd 97% of their high density interval. Furthermore, r_hat are all 1, indicating the simulations converge to the same distribution. Therefore they confirm the validity of the model.
-
 From the model, we infer that since (mu = alpha + beta * X),
 
 mu = 144.97 + 0.23 X
-
 The expected value of Y when X is 0 is 144.97. For each unit of X increase, Y increases by 0.23.
 
 
